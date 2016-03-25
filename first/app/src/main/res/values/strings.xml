@@ -3,4 +3,9 @@
     <string name="Radio_mainPage">首页</string>
     <string name="Radio_foot">足迹</string>
     <string name="Radio_mine">我的</string>
+    <string name="top_topic">专题</string>
+    <string name="top_sift">精选</string>
+    <string name="middle_view">视野</string>
+    <string name="middle_light">光影</string>
+    <string name="middle_guide">指南</string>
 </resources>
